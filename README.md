@@ -1,3 +1,3 @@
-# Some basic Python code
+# basic Python code
 This is my first Git Repository
 <br>
